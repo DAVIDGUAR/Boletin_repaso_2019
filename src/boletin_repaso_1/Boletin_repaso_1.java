@@ -15,7 +15,18 @@ public class Boletin_repaso_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        
+        for (int i=0; i<5 ;i++){
+            
+            System.out.println("Este e un bucle");
+            
+            
+            
+            
+        }
+        
+        
     }
     
 }
