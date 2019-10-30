@@ -5,6 +5,8 @@
  */
 package boletin_repaso_3;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author drodriguezguardiola
@@ -15,7 +17,12 @@ public class Boletin_repaso_3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      
+        Comprobacion obx1=new Comprobacion();
+        
+        obx1.setNum();
+        
+        
     }
     
 }
